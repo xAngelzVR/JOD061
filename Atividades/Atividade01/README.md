@@ -6,3 +6,4 @@
   - Verificar a resolução de nomes para os hosts www.iesb.br e intranet.iesb.br.
   - Verificar rotas para os hosts www.iesb.br e intranet.iesb.br.
   - Verificar as conexões estabelecidas pelo host nos protocolos TCP e UDP.
+
